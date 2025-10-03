@@ -1,0 +1,5 @@
+Summarize the follwoing reviews in to a short paragraph while hilighting the key points. 
+
+As well as highlighting the positive and negative points: 
+    
+{{reviews}}

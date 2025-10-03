@@ -1,0 +1,22 @@
+{
+  "name": "summarizer",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "concurrently": "^9.2.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "private": true,
+  "scripts": {
+    "start": "bun run index.ts"
+  },
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "react-loading-skeleton": "^3.5.0"
+  }
+}
