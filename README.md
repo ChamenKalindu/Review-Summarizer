@@ -1,4 +1,12 @@
-# summarizer
+# Review-Summarizer
+
+This is an AI review summarizer that can summarize muliple reviews into a small, comprehensive summary. 
+
+# TechStack
+✔️ frontend - react
+✔️ backend - bun + express
+✔️ database - sql with prisma
+✔️ AI service - OpenAI
 
 To install dependencies:
 
